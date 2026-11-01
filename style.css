@@ -52,7 +52,7 @@ html {
 body {
     font-family: var(--font-body);
     background: var(--soft-cream-bg);
-    color: var(--luxury-black);
+    color: var( --soft-cream-bg);
     line-height: 1.5;
     overflow-x: hidden;
 }
