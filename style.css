@@ -270,7 +270,7 @@ main > section {
    ========================================================================== */
 
 .hero {
-    background: var(--luxury-black);
+    background: background: #f5eee8;
 
     min-height: 100vh;
 
